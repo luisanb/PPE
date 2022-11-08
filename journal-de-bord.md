@@ -24,3 +24,10 @@ $ grep "$TYPE" $ANNEE*.ann | wc >> sortie.txt
 Aujourd'hui j'ai finalement réussi à mettre à jour mon dossier sur l'ordi avec "git pull". Je l'ai fait aussi avec le dossier du professeur, pour avoir les slides et exercices à jour. Tout ça a bien marché.  
 Là, j'essaye de comprendre des choses basiques, genre comment créer une tag et comprendre ce que je dois remplacer par "commit" dans une commande.  
 Fait ! Il ne faut pas écrire un "commit", ça fait partie de ce qui est optionnel. Le plus important de donner un nom à la tag (au tag ?). J'ai mis à jour sur github en ligne aussi avec "git push origin <tagname>". 
+
+  
+## 8 nov
+ J'essaie d'utiliser "git push" et "git pull".   
+ J'ai fait "git pull" avec le dossier Truc- pour le mettre à jour sur mon ordi, ça a marché.  
+  Après j'ai fait "git push" mais il a mis à jour juste mon "hello word" de test...  
+  Je dois mettre mes URLS sur git.  
