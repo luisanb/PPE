@@ -31,3 +31,18 @@ Fait ! Il ne faut pas écrire un "commit", ça fait partie de ce qui est optionn
  J'ai fait "git pull" avec le dossier Truc- pour le mettre à jour sur mon ordi, ça a marché.  
   Après j'ai fait "git push" mais il a mis à jour juste mon "hello word" de test...  
   Je dois mettre mes URLS sur git.  
+  
+## 10 nov  
+  J'ai commité le projet Truc  
+  J'ai fait :  
+    1. git status (pour vérifier les dossiers non commités)  
+   qui m'a recommandé de faire "git restore <doc x>" et "git add <doc y>"  
+   tout ça avant de commiter pour faire "git push"
+    2. git restore doc x  
+    3. git add doc y  
+    4. git commit -m <message>  
+   alors, avant de faire "git push" (c'était refusé) 
+    5. git pull  
+    6. enfin, git push 
+  Comme ça, j'ai actualisé ma partie.
+  ### Prochain pas : travailler avec html.
