@@ -37,9 +37,9 @@ Fait ! Il ne faut pas écrire un "commit", ça fait partie de ce qui est optionn
   J'ai fait :  
     1. git status (pour vérifier les dossiers non commités)  
    qui m'a recommandé de faire "git restore <doc x>" et "git add <doc y>"  
-   tout ça avant de commiter pour faire "git push"
-    2. git restore doc x  
-    3. git add doc y  
+   tout ça avant de commiter pour faire "git push"  
+    2. git restore <doc x>
+    3. git add <doc y>  
     4. git commit -m <message>  
    alors, avant de faire "git push" (c'était refusé) 
     5. git pull  
