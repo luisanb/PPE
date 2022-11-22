@@ -41,8 +41,13 @@ Fait ! Il ne faut pas écrire un "commit", ça fait partie de ce qui est optionn
     2. git restore <doc x>
     3. git add <doc y>  
     4. git commit -m <message>  
-   alors, avant de faire "git push" (c'était refusé) 
+   alors, avant de faire "git push" (c'était refusé)  
     5. git pull  
     6. enfin, git push 
   Comme ça, j'ai actualisé ma partie.
   ### Prochain pas : travailler avec html.
+  
+  ## 21 et 22 nov  
+  - Working on HTML  
+  - commit sur github  
+  - comprendre le script
