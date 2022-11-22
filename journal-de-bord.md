@@ -43,7 +43,7 @@ Fait ! Il ne faut pas écrire un "commit", ça fait partie de ce qui est optionn
     4. git commit -m <message>  
    alors, avant de faire "git push" (c'était refusé)  
     5. git pull  
-    6. enfin, git push 
+    6. enfin, git push  
   Comme ça, j'ai actualisé ma partie.
   ### Prochain pas : travailler avec html.
   
