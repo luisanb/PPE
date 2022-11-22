@@ -48,6 +48,6 @@ Fait ! Il ne faut pas écrire un "commit", ça fait partie de ce qui est optionn
   ### Prochain pas : travailler avec html.
   
   ## 21 et 22 nov   
-  - Working on HTML   ###OK  
-  - commit sur github    ###OK  
+  - Working on HTML   OK  
+  - commit sur github    OK  
   - comprendre le script 
