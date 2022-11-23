@@ -50,4 +50,5 @@ Fait ! Il ne faut pas écrire un "commit", ça fait partie de ce qui est optionn
   ## 21 et 22 nov   
   - Working on HTML   OK  
   - commit sur github    OK  
-  - comprendre le script 
+  - comprendre le script  
+  site : regular expressions 101
