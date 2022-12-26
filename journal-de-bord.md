@@ -52,3 +52,9 @@ Fait ! Il ne faut pas écrire un "commit", ça fait partie de ce qui est optionn
   - commit sur github    OK  
   - comprendre le script  
  ### site : regular expressions 101
+  
+  ## début décembre 
+  - Mon groupe et moi, on a décidé de changer le mot car le mot "truc" nous causait assez de problèmes pour récuperer les données des sites 
+  - On a choisi, enfin, le mot "adoption"
+  - On a bien fait nos scripts avec le dernier mot, là on met à jour avec le nouveau mot
+ 
